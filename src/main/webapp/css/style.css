@@ -1,0 +1,29 @@
+table{
+	
+	border-collapse: collapse;
+	
+}
+
+td{
+	color: blue;
+}
+
+
+th{
+	color:blue;
+}
+
+th:hover {
+	cursor:pointer;
+	color:red;
+	
+}
+
+
+
+td:hover{
+	
+	cursor:pointer;
+	color:orange; 
+	
+}
